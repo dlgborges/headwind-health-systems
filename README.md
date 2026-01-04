@@ -3,7 +3,7 @@ Fictional company name for the development of an end-to-end project with the pur
 
 Um serviço de monitoramento de pacientes crônicos, versão mínima.
 
-Funcionalidades do MVP:
+### Funcionalidades do MVP:
 
 1. Registrar paciente
 
